@@ -1,3 +1,4 @@
-function computeSquareRoot(num) {
-  // your code here
+function computeSquareRoot(number) {
+  return Math.sqrt(number);
 }
+

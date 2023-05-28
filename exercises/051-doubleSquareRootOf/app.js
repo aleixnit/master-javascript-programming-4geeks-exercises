@@ -1,4 +1,4 @@
-function doubleSquareRootOf(num) {
-  // your code here
-  
+function doubleSquareRootOf(number) {
+  return 2 * Math.sqrt(number);
 }
+
