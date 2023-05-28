@@ -1,5 +1,4 @@
-// Write your function here
-
-const isSameLength = (a,b) => {
-    a.length == b.length ? true : false
-}
+function isSameLength(word1, word2) {
+    return word1.length === word2.length;
+  }
+  
